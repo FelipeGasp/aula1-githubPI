@@ -5,3 +5,5 @@ estou alterando no remoto
 
 Alteração do CSS dia 29 de fevereiro
 
+Prática site instucional dia 7 de março;
+
